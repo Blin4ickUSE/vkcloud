@@ -7,13 +7,13 @@
 ## ⚡ Быстрая установка (одна команда)
 
 ```bash
-curl -sL https://raw.githubusercontent.com/wrx861/vkcloud/main/install.sh | sudo bash
+curl -sL https://raw.githubusercontent.com/blin4ickuse/vkcloud/main/install.sh | sudo bash
 ```
 
 или через wget:
 
 ```bash
-wget -qO- https://raw.githubusercontent.com/wrx861/vkcloud/main/install.sh | sudo bash
+wget -qO- https://raw.githubusercontent.com/blin4ickuse/vkcloud/main/install.sh | sudo bash
 ```
 
 После установки запуск из любого места:
