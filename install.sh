@@ -19,7 +19,7 @@ CYAN='\033[0;36m'
 NC='\033[0m'
 
 INSTALL_DIR="/opt/vkcloud"
-REPO_URL="https://github.com/wrx861/vkcloud.git"
+REPO_URL="https://github.com/blin4ickuse/vkcloud.git"
 COMMAND_NAME="vkcloud"
 
 echo -e "${CYAN}"
